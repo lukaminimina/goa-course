@@ -1,5 +1,6 @@
 from turtle import*
-shape("circle")
+shape("turtle")
+
 
 
 width(4)
